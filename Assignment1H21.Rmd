@@ -1,7 +1,10 @@
 ---
 title: "Can R Notebook help with the reproducibility"
 output: html_notebook
+bibliography: references.bib
+csl: apa-no-a,persand.csl
 ---
 
+Introduction
 
-hei la oss prøve. Hva skjede nå?
+
