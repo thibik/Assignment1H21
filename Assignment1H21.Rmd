@@ -18,3 +18,5 @@ The R notebook used in the software called R, is similar to a compendium, which 
 
 
 
+
+
