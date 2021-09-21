@@ -2,9 +2,14 @@
 title: "Can R Notebook help with the reproducibility"
 output: html_notebook
 bibliography: references.bib
-csl: apa-no-a,persand.csl
+csl: apa-no-ampersand.csl
 ---
 
 Introduction
+
+Short literature review
+
+### ***Reproducibility in R***
+
 
 
