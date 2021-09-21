@@ -16,7 +16,7 @@ Short literature review
 
 The *R notebook* used in the software called *R*, is similar to a compendium, which means you can write texts and codes. This notebook is supported by tools like *"knitr"*, an integrated package in R, and *R-markdown*, which helps to integrate the codes, figures, and similar functions. By using R Markdown you can easily convert the notebook to formats like Microsoft World, PDF and others formats. Sharing the notebook online and giving access to other author is considered as simple. Therefore R Notebook may be the solution for reproducibility.
 
-In addition there is a data code called ***session info*** in *R studio*. This function will tell about the the author's working environment. That means it would give information about the author's version of *R*. By using this data code, it could help other authors to reproduce the project or find out codes that deviates from what is normal. 
+In addition, there is a data code called ***session info*** in *R studio*. This function will tell about the the author's working environment. That means it would give information about the author's version of *R*. By using this data code, it could help other authors to reproduce the project or find out codes that deviates from what is normal. 
 
 ***Add the code in here***
 
@@ -34,4 +34,6 @@ As @peng2011 told; **"Interactive software systems often used for exploratory da
 Even though if author changes their software systems, they have to make the data codes available. If they choose not to share their data codes, the point of reproducibility would not be relevant. Another barrier to reproducibility is the understanding of its culture. An ingrained culture that requires reproducibility for all scientific claims is necessary, and not everyone is familiar with this culture. [@peng2011].
 
 ## **Conclusion**
+
+*Reproducibility* is about using one's author's file to *replicate* by others authors and this topic about reproducibility is heated among scientist in today's society. We can conclude that reproducibility in *data science* have more benefits than disadvantages, and therefor it would be seen as necessary tool for the current and future generations. The *R notebook* in *R studio* would be seen as a great platform to create a file, which can be replicated by others. 
 
