@@ -1,6 +1,9 @@
 ---
 title: "Can R Notebook help with the reproducibility"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
 bibliography: references.bib
 csl: apa-no-ampersand.csl
 ---
