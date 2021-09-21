@@ -14,7 +14,7 @@ Short literature review
 
 ### ***Reproducibility in R***
 
-The R notebook used in the software called R, is similar to a compendium, which means you can write texts and codes. This notebook is supported by tools like “knitr”, an integrated package in R, and R-markdown, which helps to integrate the codes, figures, and similar functions. By using R Markdown you can easily convert the notebook to formats like Microsoft World, PDF and others formats. Sharing the notebook online and giving access to other author is simple. Therefore R Notebook may be the solution for reproducibility. 
+The *R notebook* used in the software called *R*, is similar to a compendium, which means you can write texts and codes. This notebook is supported by tools like *“knitr”*, an integrated package in R, and *R-markdown*, which helps to integrate the codes, figures, and similar functions. By using R Markdown you can easily convert the notebook to formats like Microsoft World, PDF and others formats. Sharing the notebook online and giving access to other author is considered as simple. Therefore R Notebook may be the solution for reproducibility. 
 
 ## **Discussion**
 
