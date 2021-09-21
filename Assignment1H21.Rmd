@@ -37,3 +37,4 @@ Even though if author changes their software systems, they have to make the data
 
 *Reproducibility* is about using one's author's file to *replicate* by others authors and this topic about reproducibility is heated among scientist in today's society. We can conclude that reproducibility in *data science* have more benefits than disadvantages, and therefor it would be seen as necessary tool for the current and future generations. The *R notebook* in *R studio* would be seen as a great platform to create a file, which can be replicated by others. 
 
+
