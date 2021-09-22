@@ -202,7 +202,3 @@ create a file, which can be replicated by others.
 <<<<<<< HEAD
  
 ## Appendix 
-=======
-
-## Appendix
->>>>>>> 12ca1bab3bc378c83bf256ea06bc6e67d6056725
