@@ -198,6 +198,5 @@ would be seen as necessary tool for the current and future generations.
 The *R notebook* in *R studio* would be seen as a great platform to
 create a file, which can be replicated by others.
 
-<<<<<<< HEAD
-=======
 ## **References**
+
