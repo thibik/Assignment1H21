@@ -77,3 +77,6 @@ Even though if author changes their software systems, they have to make the data
 :::
 
 ## Appendix
+![Plot title. ](Assignment1H21_insertimage_1.png)
+
+![Plot title. ](Assignment1H21_insertimage_2.png)
