@@ -73,8 +73,7 @@ Even though if author changes their software systems, they have to make the data
 
 ## **References**
 
-<div id="refs"></div>
-
-
+::: {#refs}
+:::
 
 ## Appendix
