@@ -1,4 +1,11 @@
-
+---
+title: "Can R Notebook help with the reproducibility"
+output:
+  pdf_document: default
+  html_document: default
+csl: apa-no-ampersand.csl
+Bibliography: references.bib
+---
 
 By Thibiga and Ingrid
 
