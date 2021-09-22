@@ -2,10 +2,9 @@
 title: "Can R Notebook help with the reproducibility"
 output:
   pdf_document: default
-  html_document:
+  html_document: default
     df_print: paged
  bibliography: references.bib
-csl: apa-no-ampersand.csl
 ---
 
 By Thibiga and Ingrid
@@ -197,3 +196,5 @@ scientist in today's society. We can conclude that reproducibility in
 would be seen as necessary tool for the current and future generations.
 The *R notebook* in *R studio* would be seen as a great platform to
 create a file, which can be replicated by others.
+
+## **References**
