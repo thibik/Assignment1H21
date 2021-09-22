@@ -199,7 +199,7 @@ create a file, which can be replicated by others.
 
 ::: {#refs}
 :::
-
+ 
 ## Appendix 
 
 ![Plot title. ](Assignment1H21_insertimage_1.png)
