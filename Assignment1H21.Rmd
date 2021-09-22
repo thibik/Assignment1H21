@@ -39,7 +39,7 @@ After looking at the the sources above both the prons and the cons of reproducib
 
 The introduction stated that R notebooks helps the user to view output as the input is created, while the user can create transparent and reproducible papers [@grolemund] [@boehmkebradley]. In R notebooks, the code chunks helps both the author and the reviewer to view both the paper and the data sets in a more transparent way. As @markowetz2015 states, it is easier to get an overview of the work, and it is also helpful for the reader to get a better understanding of the research. Additionally, using R Notebooks in combination with Git gives the researcher a great opportunity to "track and compare versions, retrace errors, explore new approaches in a structures manner, while maintaining a full audit trail" [@boehmkebradley]. Lastly, the creation of dynamic documents may also be a suggested solution of the problem. The fact that R notebooks has a transparent outcome and underlines the steps the author performs, makes the notebook a great possible solution for reproducibility. However, if it solves the problem is not yet found. This will further be discussed in the next part of the paper.
 
-### Discussion
+## Discussion
 
 The *R notebook* used in the software called *R*, is similar to a compendium, which means you can write texts and codes. This notebook is supported by tools like *"knitr"*, an integrated package in R, and *R-markdown*, which helps to integrate the codes, figures, and similar functions. By using R Markdown you can easily convert the notebook to formats like Microsoft World, PDF and others formats. Sharing the notebook online and giving access to other author is considered as simple. Therefore R Notebook may be the solution for reproducibility.
 
@@ -95,7 +95,7 @@ reproducibility is the understanding of its culture. An ingrained
 culture that requires reproducibility for all scientific claims is
 necessary, and not everyone is familiar with this culture [@peng2011].
 
-##Conclusion
+## Conclusion
 
 *Reproducibility* is about using one's author's file to *replicate* by
 others authors and this topic about reproducibility is heated among
