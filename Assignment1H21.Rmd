@@ -68,8 +68,6 @@ Even though if author changes their software systems, they have to make the data
 ::: {#refs}
 :::
 
-## Appendix
+## Appendix 
 
-![Overview.](Assignment1H21_insertimage_1.png)
-
-![Commit history.](Assignment1H21_insertimage_2.png)
+![Plot title. ](Assignment1H21_insertimage_1.png)
