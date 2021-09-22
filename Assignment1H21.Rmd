@@ -47,10 +47,10 @@ relevant tool.
 Reproducibility and replicability has been and ongoing topic among
 scientists and academics. The importance of the matters has been widely
 discussed considering the ongoing "reproducibility crisis"
-[@Serra-Garcia2021]. The crisis refers to the failure of reproducing and
+[@serra-garcia2021]. The crisis refers to the failure of reproducing and
 replicate research and experiments that has been published
-[@Serra-Garcia2021]. Additionally, it has also been found in
-@Serra-Garcia2021 research that "nonreplicable publications are cited
+[@serra-garcia2021]. Additionally, it has also been found in
+@serra-garcia2021 research that "nonreplicable publications are cited
 more". In order to further look at the findings, in a variation of
 studies, to discuss the title question, we need to define the relevant
 terms that will be used in this paper.
