@@ -4,7 +4,7 @@ output:
   pdf_document: default
   html_document:
     df_print: paged
-bibliography: references.bib
+ references.bib
 csl: apa-no-ampersand.csl
 ---
 
@@ -140,7 +140,6 @@ normal.
 ```{r}
 sessionInfo(package = NULL)
 ```
-
 
 ## **Discussion**
 
