@@ -185,7 +185,7 @@ reproducibility is the understanding of its culture. An ingrained
 culture that requires reproducibility for all scientific claims is
 necessary, and not everyone is familiar with this culture [@peng2011].
 
-## Conclusion
+##Conclusion
 
 *Reproducibility* is about using one's author's file to *replicate* by
 others authors and this topic about reproducibility is heated among
