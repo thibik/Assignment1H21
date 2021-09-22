@@ -3,8 +3,8 @@ title: "Can R Notebook help with the reproducibility"
 output:
   pdf_document: default
   html_document: default
-    df_print: paged
- bibliography: references.bib
+csl: apa-no-ampersand.csl
+bibliography: references.bib
 ---
 
 By Thibiga and Ingrid
@@ -119,7 +119,7 @@ author performs, makes the notebook a great possible solution for
 reproducibility. However, if it solves the problem is not yet found.
 This will further be discussed in the next part of the paper.
 
-### ***Reproducibility in R***
+### Reproducibility in R
 
 The *R notebook* used in the software called *R*, is similar to a
 compendium, which means you can write texts and codes. This notebook is
@@ -141,7 +141,7 @@ normal.
 sessionInfo(package = NULL)
 ```
 
-## **Discussion**
+## Discussion
 
 In our society the focus on the computational science has increased and
 therefore there have been some fast-moving developments in many
@@ -188,7 +188,7 @@ reproducibility is the understanding of its culture. An ingrained
 culture that requires reproducibility for all scientific claims is
 necessary, and not everyone is familiar with this culture. [@peng2011].
 
-## **Conclusion**
+## Conclusion
 
 *Reproducibility* is about using one's author's file to *replicate* by
 others authors and this topic about reproducibility is heated among
@@ -198,3 +198,6 @@ would be seen as necessary tool for the current and future generations.
 The *R notebook* in *R studio* would be seen as a great platform to
 create a file, which can be replicated by others.
 
+<<<<<<< HEAD
+=======
+## **References**
