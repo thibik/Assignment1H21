@@ -49,6 +49,7 @@ In addition, there is a data code called ***session info*** in *R studio*. This 
 sessionInfo(package = NULL)
 ```
 
+<<<<<<< HEAD
 In our society the focus on the computational science has increased and therefore there have been some fast-moving developments in many scientific areas [@peng2011]. One of these areas is the reproducibility in data science. In other words, other authors can reproduce the document by using the same data which have been collected and written by someone else [@gentleman2005]. This kind of reproducibility is based on that every computational experiment has a detailed log of every action made in a program, like R Studio [@gentleman2005].
 
 The documents and its computations are referred to as a compendium, a distributable object and which is a mix between text and data [@gentleman2005]. These compendiums are "easily comprehend, modified and extended". Which means an external author/reader could be able to reproduce without any complications. The reproducibility is important and necessary, first of all it creates more opportunity for new insights. This is done by using the same compendium by adjusting the data with the aim of achieving the same results. By executing this you would see other possibilities that one has not had in their mind. The risk of doing error will reduce by reproducing. This will ensure that texts and codes are correct, which again would increase the reliability. The result of a research or a studies may be incorrect and by letting your document/compendium be reproducible, will allow readers to understand your work better [@thesign2017].
@@ -62,6 +63,62 @@ Even though if author changes their software systems, they have to make the data
 ## 
 
 *Reproducibility* is about using one's author's file to *replicate* by others authors and this topic about reproducibility is heated among scientist in today's society. We can conclude that reproducibility in *data science* have more benefits than disadvantages, and therefore it would be seen as necessary tool for the current and future generations. The *R notebook* in *R studio* would be seen as a great platform to create a file, which can be replicated by others.
+=======
+In our society the focus on the computational science has increased and
+therefore there have been some fast-moving developments in many
+scientific areas [@peng2011]. One of these areas is the reproducibility
+in data science. In other words, other authors can reproduce the
+document by using the same data which have been collected and written by
+someone else [@gentleman2005]. This kind of reproducibility is based on
+that every computational experiment has a detailed log of every action
+made in a program, like R Studio [@gentleman2005].
+
+The documents and its computations are referred to as a compendium, a
+distributable object and which is a mix between text and data
+[@gentleman2005]. These compendiums are "easily comprehend, modified and
+extended". Which means an external author/reader could be able to
+reproduce without any complications. The reproducibility is important
+and necessary, first of all it creates more opportunity for new
+insights. This is done by using the same compendium by adjusting the
+data with the aim of achieving the same results. By executing this you
+would see other possibilities that one has not had in their mind. The
+risk of doing error will reduce by reproducing. This will ensure that
+texts and codes are correct, which again would increase the reliability.
+The result of a research or a studies may be incorrect and by letting
+your document/compendium be reproducible, will allow readers to
+understand your work better [@thesign2017].
+
+The choice of reproducing the data or not will be based on your work. As
+written over, the reproducibility is based on that all computations done
+in research are recorded and is available to reuse. This could also be
+seen as a disadvantageous side of reproducibility if the data codes are
+no longer available to readers.
+
+As @peng2011 stated; **"Interactive software systems often used for
+exploratory data analysis typically do not keep track of users' actions
+in any concrete form."**. Changing the behavior of the software systems
+or use other software systems that support reproducibility may resolve
+the problem, but because of the human nature, it will not happen
+quickly. One of the main reasons is the hours someone have spent to
+learn a specific program.
+
+Even though if author changes their software systems, they have to make
+the data codes available. If they choose not to share their data codes,
+the point of reproducibility would not be relevant. Another barrier to
+reproducibility is the understanding of its culture. An ingrained
+culture that requires reproducibility for all scientific claims is
+necessary, and not everyone is familiar with this culture [@peng2011].
+
+##Conclusion
+
+*Reproducibility* is about using one's author's file to *replicate* by
+others authors and this topic about reproducibility is heated among
+scientist in today's society. We can conclude that reproducibility in
+*data science* have more benefits than disadvantages, and therefore it
+would be seen as necessary tool for the current and future generations.
+The *R notebook* in *R studio* would be seen as a great platform to
+create a file, which can be replicated by others.
+>>>>>>> 1edbc2f709b9b27de87f3c14853e8beeb0c47672
 
 ## **References**
 
