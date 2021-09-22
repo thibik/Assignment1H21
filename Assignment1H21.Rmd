@@ -199,6 +199,11 @@ create a file, which can be replicated by others.
 
 ::: {#refs}
 :::
-<<<<<<< HEAD
- 
+
+
+
 ## Appendix 
+
+![Overview](Assignment1H21_insertimage_1.png) 
+
+![Commit history](Assignment1H21_insertimage_2.png)
