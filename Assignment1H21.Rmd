@@ -28,7 +28,7 @@ The aim of this paper is to define reproducibility and replicability and further
 
 This literature review will undertake a research of reproducibility and replicability in relevance to *R and R-studio*. It will further present relevant and credible sources. We will be using sources deducted from the shared Zotero library, which have been collected through detailed work by our professor.
 
-As defined in the introduction are both reproducibility and replicability an important topic among scientists and in the academic world. Multiple articles has been written about the topic and the importance of it. @mcnutt2014 states in her article from 2014 that reproducibility is important for researchers in order to support their conclusions and results. The article further states that there are various reasons of irreproducible work. Firstly, It may be hard for the researcher to control all the independent variables, some of the authors may also want to keep their methods private and not reveal the methods behind the concluded result [@mcnutt2014]. Another factor is the production of false positives studies, where some of the results indicates a "wrong" outcome. In an attempt to create reproducible studies must the above mentioned factors be avoided. @mccullough2008 is also looking at the lack of reproducible published data. They found in their research of economics journal archives that authors tend to not contribute enough data in the published articles for them to be reproduced [@mccullough2008]. Through @mcnutt2014 and @mccullough2008 is it clear that there are multiple reasons of why articles and publications are irreproducible. However, given the reasons there are also a number of reasons that supports the creation of reproducible publications. @markowetz2015 suggests five reasons in his article from 2015:
+As defined in the introduction are both reproducibility and replicability an important topic among scientists and in the academic world. Multiple articles has been written about the topic and the importance of it. @mcnutt2014 states in her article from 2014 that reproducibility is important for researchers in order to support their conclusions and results. The article further states that there are various reasons of irreproducible work. Firstly, It may be hard for the researcher to control all the independent variables, some of the authors may also want to keep their methods private and not reveal the methods behind the concluded result [@mcnutt2014]. Another factor is the production of false positives studies, where some of the results indicates a "wrong" outcome. In an attempt to create reproducible studies must the above mentioned factors be avoided. @mccullough2008 is also looking at the lack of reproducible published data. They found in their research of economics journal archives that authors tend to not contribute enough data in the published articles for them to be reproduced [@mccullough2008]. Through @mcnutt2014 and @mccullough2008 is it clear that there are multiple reasons of why articles and publications are irreproducible. However, given the reasons there are also a number of reasons that supports the creation of reproducible publications. @markowetz2015
 
 1.  Avoid disaster\
     *If the author is transparent with the data and the outcome, will it be easier to spot issues and mistakes, and it will sooner be edited and updated [@markowetz2015]*
@@ -45,17 +45,15 @@ After looking at the the sources above both the prons and the cons of reproducib
 
 The introduction stated that R notebooks helps the user to view output as the input is created, while the user can create transparent and reproducible papers [@grolemund] [@boehmkebradley]. In R notebooks, the code chunks helps both the author and the reviewer to view both the paper and the data sets in a more transparent way. As @markowetz2015 states, it is easier to get an overview of the work, and it is also helpful for the reader to get a better understanding of the research. Additionally, using R Notebooks in combination with Git gives the researcher a great opportunity to "track and compare versions, retrace errors, explore new approaches in a structures manner, while maintaining a full audit trail" [@boehmkebradley]. Lastly, the creation of dynamic documents may also be a suggested solution of the problem. The fact that R notebooks has a transparent outcome and underlines the steps the author performs, makes the notebook a great possible solution for reproducibility. However, if it solves the problem is not yet found. This will further be discussed in the next part of the paper.
 
-### Reproducibility in R
+### Discussion
 
 The *R notebook* used in the software called *R*, is similar to a compendium, which means you can write texts and codes. This notebook is supported by tools like *"knitr"*, an integrated package in R, and *R-markdown*, which helps to integrate the codes, figures, and similar functions. By using R Markdown you can easily convert the notebook to formats like Microsoft World, PDF and others formats. Sharing the notebook online and giving access to other author is considered as simple. Therefore R Notebook may be the solution for reproducibility.
 
-In addition, there is a data code called ***session info*** in *R studio*. This function will tell about the the author's working environment. That means it would give information about the author's version of *R*. By using this data code, it could help other authors to reproduce the project or find out codes that deviates from what is normal [@rsession].
+In addition, there is a data code called ***session info*** in *R studio*. This function will tell about the the author's working environment. That means it would give information about the author's version of *R*. By using this data code, it could help other authors to reproduce the project or find out codes that deviates from what is normal [@rsessio].
 
 ```{r Reproducibility}
 sessionInfo(package = NULL)
 ```
-
-## Discussion
 
 In our society the focus on the computational science has increased and therefore there have been some fast-moving developments in many scientific areas [@peng2011]. One of these areas is the reproducibility in data science. In other words, other authors can reproduce the document by using the same data which have been collected and written by someone else [@gentleman2005]. This kind of reproducibility is based on that every computational experiment has a detailed log of every action made in a program, like R Studio [@gentleman2005].
 
@@ -77,6 +75,7 @@ Even though if author changes their software systems, they have to make the data
 :::
 
 ## Appendix
-![Plot title. ](Assignment1H21_insertimage_1.png)
 
-![Plot title. ](Assignment1H21_insertimage_2.png)
+![Overview.](Assignment1H21_insertimage_1.png)
+
+![Commit history.](Assignment1H21_insertimage_2.png)
