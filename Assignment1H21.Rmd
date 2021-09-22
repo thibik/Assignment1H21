@@ -4,11 +4,9 @@ output:
   pdf_document: default
   html_document: default
 csl: apa-no-ampersand.csl
-bibliography: references.bib
 ---
 
 By Thibiga and Ingrid
-hello test test 
 
 ## Introduction
 
