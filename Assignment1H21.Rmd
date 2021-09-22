@@ -5,6 +5,7 @@ output:
   html_document: default
 csl: apa-no-ampersand.csl
 Bibliography: references.bib
+bibliography: references.bib
 ---
 
 By Thibiga and Ingrid
@@ -14,10 +15,10 @@ By Thibiga and Ingrid
 Reproducibility and replicability has been and ongoing topic among
 scientists and academics. The importance of the matters has been widely
 discussed considering the ongoing "reproducibility crisis"
-[@Serra-Garcia2021]. The crisis refers to the failure of reproducing and
+[@serra-garcia2021] The crisis refers to the failure of reproducing and
 replicate research and experiments that has been published
-[@Serra-Garcia2021]. Additionally, it has also been found in
-@Serra-Garcia2021 research that "nonreplicable publications are cited
+[@serra-garcia2021] Additionally, it has also been found in
+@serra-garcia2021 research that "nonreplicable publications are cited
 more". In order to further look at the findings, in a variation of
 studies, to discuss the title question, we need to define the relevant
 terms that will be used in this paper.
@@ -88,13 +89,13 @@ publications. @markowetz2015 suggests five reasons in his article from
     on board with the authors thoughts, while also get a better
     understanding of the data [@markowetz2015].*
 4.  Continuity of the work\
-    Producing reproducible and transparent work will further gain the
+    *Producing reproducible and transparent work will further gain the
     author as readers can continue the research, which will save the
-    original author both time and stress [@markowetz2015].
+    original author both time and stress [@markowetz2015].*
 5.  Building reputation\
-    Lastly, being transparent and open with the research will create a
+    *Lastly, being transparent and open with the research will create a
     positive reputation for the author. the outcome will be a reputation
-    of "an honest and careful researcher" [@markowetz2015].
+    of "an honest and careful researcher" [@markowetz2015].*
 
 After looking at the the sources above both the prons and the cons of
 reproducibility, it is clear that more transparency may lead to a more
@@ -198,4 +199,3 @@ The *R notebook* in *R studio* would be seen as a great platform to
 create a file, which can be replicated by others.
 
 ## **References**
-
