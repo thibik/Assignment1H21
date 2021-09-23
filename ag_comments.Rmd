@@ -12,3 +12,6 @@ Generelt synes jeg det ble et greit lite «paper».
 Dere får klart frem hva det dreier seg om, har brukt siteringsverktøyet flittig og måttet sloss med git/github.
 Hva mer kan man ønske seg?
 ;-)
+
+Prøve også å slette grener på remote for å rydde litt opp.
+Greiner vi er ferdige med er det greit å bare slette.
