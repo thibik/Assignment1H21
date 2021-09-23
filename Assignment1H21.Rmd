@@ -73,7 +73,8 @@ This will further be discussed in the next part of the paper.
 
 # Discussion
 
-The *R notebook* used in the software called *R [@rcoreteam2021]* , is similar to a *computable compendium* [@gentleman2005], which means you can write texts and codes. This notebook is supported by tools like *knitr* [@xie2015] [@xie2014j], an integrated package in R, and *rmarkdown* [@allaire2021] [@xie2018i] [@xie2020], which helps to integrate the codes, figures, and similar functions.
+The *R notebook* used in the software called *R [@rcoreteam2021]* , is similar to a *computable compendium* [@gentleman2005], which means you can write texts and codes.
+This notebook is supported by tools like *knitr* [@xie2015] [@xie2014j], an integrated package in R, and *rmarkdown* [@allaire2021] [@xie2018i] [@xie2020], which helps to integrate the codes, figures, and similar functions.
 By using R Markdown you can easily convert the notebook to formats like Microsoft World, PDF and others formats.
 Sharing the notebook on-line and giving access to other authors is considered as simple.
 Therefore R Notebook may be a solution for reproducibility.
