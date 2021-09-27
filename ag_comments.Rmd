@@ -1,0 +1,17 @@
+---
+title: "Comments from ag"
+output: html_notebook
+---
+
+-   .bib-filen manglet så jeg måtte fikse litt på referansene for å få kjørt dokumentet. Vi legge inn et avsnitt i et felles dokument for kurset som gir råd om hvordan en best kan organisere seg mht. referanser når flere skriver sammen.
+-   Vi bør nok installere BetterBibTex for å få bedre flyt mht. sitering (også felles dokument og vil i tillegg bli vist på forelesning)
+-   Flyttet alle overskriftene opp et nivå (til heading 1). Husk her skriver vi ut fra struktur og ikke utseende. Synes vi at overskriftene benytter for stor font kan vi overstyre dette senere (selv om jeg vil anbefale å bruke default)
+-   La til sitering for R, knitr og rmarkdown som dere nevner. Det er lett å få til (vil også bli vist i felles dokument) og er noe forfatterne ber om. Liten belønning for mye arbeid.
+
+Generelt synes jeg det ble et greit lite «paper».
+Dere får klart frem hva det dreier seg om, har brukt siteringsverktøyet flittig og måttet sloss med git/github.
+Hva mer kan man ønske seg?
+;-)
+
+Prøve også å slette grener på remote for å rydde litt opp.
+Greiner vi er ferdige med er det greit å bare slette.
